@@ -19,7 +19,7 @@
 	</head>
 	<body>
 	<header>
-	<img src="http://www.firstpeople.us/pictures/bear/1600x1200/Feeling_Grizzly-1600x1200.jpg" alt='Bear' />
+	<img src="http://www.firstpeople.us/pictures/bear/1600x1200/Feeling_Grizzly-1600x1200.jpg" alt='Bear' style="width: 400px;" />
 	<h1>Look! A bear!</h1>
 	</header>
 		<g:layoutBody/>
